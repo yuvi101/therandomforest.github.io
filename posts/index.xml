@@ -5,10 +5,10 @@
         <description>All Posts | The Random Forest</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 18 Dec 2022 21:36:21 &#43;0200</lastBuildDate><atom:link href="https://yuvi101.github.io/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Facial Recognition Using One-shot Learning</title>
-    <link>https://yuvi101.github.io/posts/facial_recognition/</link>
+    <link>https://yuvi101.github.io/therandomforest.github.io/posts/facial_recognition/</link>
     <pubDate>Sun, 18 Dec 2022 21:36:21 &#43;0200</pubDate>
     <author>Author</author>
-    <guid>https://yuvi101.github.io/posts/facial_recognition/</guid>
+    <guid>https://yuvi101.github.io/therandomforest.github.io/posts/facial_recognition/</guid>
     <description><![CDATA[Implementation Imports First, there&rsquo;s a need to import all libraries that we will use. NumPy (np) and Pandas (pd) are fundamental for numerical computations and data manipulation, respectively. The tqdm library provides progress bars for better visualization during loops or computations, while the time module allows us to work with time-related functions.
 We also import PyTorch (torch) for building and training deep learning models. OpenCV (cv2) is essential for image processing tasks.]]></description>
 </item><item>
